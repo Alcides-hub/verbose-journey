@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Organic Kitchen Shanghai</title>
+    <link rel="stylesheet" href="./resources/CSS/Index.css">
+</head>
+<body>
+  <!-- nav bar section -->
+    <nav class="navbar">
+      <ul>
+        <li><a href="">Our Story</a></li>
+        <li><a href="">Our Menu</a></li>
+        <li><a href="">Our Partners</a></li>
+        <li><a href="">Our Delivery Area</a></li>
+      </ul>
+    </nav>
+
+
+    <!-- banner section -->
+    <div class="banner">
+    <h1 class="font">Welcome to Organic Kitchen Landing Page!</h1>
+    <img id="Logo" src="./resources/images/LOGO TRANSPARENT GRID.png" alt="Organic Kitchen Shanghai Logo!">
+    <p class="font">This is where your journey to the culinary world of Organic Kitchen Shanghai starts!</p>
+    <button>Subscribe to our Newsletter!</button>
+    </div>
+      <!-- Organic Kitchen Intro -->
+      <div id="OK1">
+        <span id="OKS">The Story Begins</span>
+    <p>We started it out as a delivery which later turned into a restaurant</p>
+    <p>Organic Kitchen was born as a result of the combined strengths of two persons, Alcides and Olya!
+      Together they opened several deliveries spread out in Shanghai achieving amazing customer reviews. Organic Kitchen Shanghai throughout its history opened in four locations:
+    </p>
+    <ul>
+      <li>
+        <div class="small"></div><span>Yude Road</span>
+      </li>
+      <li>
+        <div class="small"></div><span>Wanghandu Road</span>
+      </li>
+      <li>
+        <div class="small"></div><span>Fuxing Xi Road</span>
+      </li>
+      <li>
+        <div class="small"></div><span>Nanjin Road</span>
+      </li>
+    </ul>
+    </div>
+</body>
+</html>
